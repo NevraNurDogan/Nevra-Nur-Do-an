@@ -1,7 +1,10 @@
 # NevraNurDogan
 # 💫 About Me:
-Şuanda Java üzerinde çalışıyorum.<br>HTML öğreniyorum.
+Merhaba! Ben Nevra Nur Doğan, yazılım mühendisliği öğrencisiyim. C, Java, HTML, CSS ve PostgreSQL gibi teknolojilere hakimiyetimle birlikte, bilgisayar bilimlerindeki öğrenmeye ve gelişmeye olan tutkumu aktif bir şekilde yaşıyorum.<br/>
 
+Yazılım dünyasında her yeni gün, benim için bir keşif yolculuğu anlamına geliyor. Yenilikçi çözümler üretmek, kodlama becerilerimi sürekli olarak geliştirmek ve projelerimde ilerlemeler görmek beni motive ediyor. Hem bireysel olarak hem de takım halinde çalışmaktan büyük keyif alıyorum. Teknolojinin hızla değiştiği bu çağda, kendimi sürekli güncellemeye ve sektörün önde gelen gelişmelerini yakından takip etmeye adadım.<br/>
+
+Şu anki kariyer hedefim, yazılım dünyasının dinamiklerini anlamak ve bu alanda fark yaratacak projelere imza atmak. Üniversite eğitimim boyunca edindiğim bilgileri ve pratik deneyimleri, gerçek dünya problemlerine çözüm sunacak çeşitli projelerde değerlendirmek istiyorum.<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Nevra Nur Doğan](https://www.linkedin.com/in/nevra-nur-d-6357bb25b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3lfstBFmRWyOYrC6XOxXvw%3D%3D)) 
