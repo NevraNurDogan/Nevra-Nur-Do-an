@@ -20,7 +20,7 @@ Yazılım dünyasında her yeni gün, benim için bir keşif yolculuğu anlamın
 [![](https://visitcount.itsvg.in/api?id=NevraNurDogan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=nevranurdogan&label=Profile%20Views&color=8&icon=8&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NevraNurDogan&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nevranurdogan&label=Profile%20Views&color=8&icon=8&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=NevraNurDogan&label=Profile%20Views&color=1&icon=6&pretty=true" />
 </a>
